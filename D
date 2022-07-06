@@ -23,4 +23,7 @@ public class D {
     public void MD4(){
         System.out.print("\nMD4\n");
     }
+    public void MD3(){
+        System.out.print("\nMD3\n");
+    }
 }
